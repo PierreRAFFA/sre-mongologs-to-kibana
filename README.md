@@ -1,8 +1,8 @@
 # Mongo Logs to Kibana
 
 This tool helps to visualise any Mongo logs into Kibana. It can very helpful to perform a deep investigation.  
-It is responsible to parse any Mongo logs and populate ElasticSearch. 
-This tool can handle Mongo logs of Gbs.   
+It is responsible to parse any Mongo logs and populate ElasticSearch.  
+This tool can handle Gbs of Mongo logs.     
 Once populated, you can visualise the logs and perform some queries in Kibana.  
 
 This tool can populate ElasticSearch running locally or from your server.  
